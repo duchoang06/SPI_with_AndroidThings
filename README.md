@@ -1,4 +1,4 @@
-# UART with Android Things on Raspberry Pi 3 B
+# SPI with Android Things on Raspberry Pi 3 B
 ## Features
 A simple Android application running on Raspberry Pi 3 with those functions:
 
